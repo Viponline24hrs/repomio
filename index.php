@@ -41,7 +41,7 @@ $linkvideo = "https://cdn-dimi.akamaized.net/landings/290389/1723020901/images/v
 
 
 
-<script id="_wau02u">var _wau = _wau || []; _wau.push(["dynamic", "mxx18l7spe", "02u", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
+<script id="_wau02u">var _wau = _wau || []; _wau.push(["dynamic", "vitico", "02u", "c4302bffffff", "small"]);</script><script async src="//waust.at/d.js"></script>
     <script async src="http://waust.at/c.js"></script>
 
     <script src="https://cdn.smrt-content.com/assets/1004/js/jquery.min.js"></script>
