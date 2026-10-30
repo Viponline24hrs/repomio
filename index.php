@@ -3,7 +3,7 @@
 require "idioma.php";
 
 //este es el link de cpa si lo cambias aqui se cambia en la web siempre dentro de " "...
-$linkcpa ="https://lov-me-bttr.com/tds/ae?tdsId=s1127pos_r&tds_campaign=s1127pos&s1=ps&utm_source=int&utm_sub=opnfnl&affid=b9915570&subid={Singapur}&subid2={subid2}&clickid={clickid}";
+$linkcpa ="https://lov-me-bttr.com/tds/ae?tdsId=s1127pos_r&tds_campaign=s1127pos&s1=ps&utm_source=int&utm_sub=opnfnl&affid=b9915570&subid={Serie70}&subid2={subid2}&clickid={clickid}";
 
 //este es el link del video de fondo igual siempre dentro de ""
 $linkvideo = "https://cdn-dimi.akamaized.net/landings/290389/1723020901/images/video-1.mp4"; 
