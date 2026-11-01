@@ -24,7 +24,7 @@ $linkvideo = "https://cdn-dimi.akamaized.net/landings/290389/1723020901/images/v
     <title>Dating,Fotos</title>
 
     <meta
-        content="https://i.postimg.cc/wj2hd00v/Screenshot-967.png"
+        content="https://i.postimg.cc/SQVxd77J/Vista-Uno-Sepia.png"
         property="og:image"
     >
 
