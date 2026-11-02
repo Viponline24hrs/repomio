@@ -22,7 +22,7 @@ $linkvideo = "https://cdn-dimi.akamaized.net/landings/290389/1723020901/images/v
     <link rel="shortcut icon" href="https://cdn.jmpcdn.com/assets/3420/images/2.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.smrt-content.com/assets/1004/css/index.css">
 
-    <script id="_wau02u">var _wau = _wau || []; _wau.push(["dynamic", "mxx18l7spe", "02u", "c4302bffffff", "small"]);</script>
+    <script id="_wau02u">var _wau = _wau || []; _wau.push(["dynamic", "vitico", "02u", "c4302bffffff", "small"]);</script>
     <script async src="//waust.at/d.js"></script>
     <script async src="http://waust.at/c.js"></script>
 
