@@ -18,7 +18,7 @@ $linkvideo = "https://cdn-dimi.akamaized.net/landings/290389/1723020901/images/v
     <meta name="robots" content="noindex, nofollow">
     <title>Dating,Fotos</title>
 
-    <meta content="https://i.postimg.cc/wj2hd00v/Screenshot-967.png" property="og:image">
+    <meta content="https://i.postimg.cc/SQVxd77J/Vista-Uno-Sepia.png" property="og:image">
     <link rel="shortcut icon" href="https://cdn.jmpcdn.com/assets/3420/images/2.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://cdn.smrt-content.com/assets/1004/css/index.css">
 
